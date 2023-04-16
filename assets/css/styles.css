@@ -7,11 +7,11 @@ body{
     background-color:darkgrey;
 }
 
+
 .bg-success-subtle{
     --bs-bg-opacity: 5;
 }
 
-.card img{
-    max-width:70%;
-  }
-
+.mx-auto{
+    text-align: center;
+}
