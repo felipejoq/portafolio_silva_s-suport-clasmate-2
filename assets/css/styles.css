@@ -10,3 +10,7 @@ body{
 .card img{
     max-width:70%;
   }
+
+.carousel-item{
+    transition: transform 1s ease, opacity .5s ease-out
+}
