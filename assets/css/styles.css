@@ -15,3 +15,7 @@ body{
 .mx-auto{
     text-align: center;
 }
+
+.nav-item {
+    margin-right: 2rem!important;
+}
